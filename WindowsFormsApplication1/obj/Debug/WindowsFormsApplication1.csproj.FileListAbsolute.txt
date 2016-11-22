@@ -29,3 +29,14 @@ C:\Users\André Luiz\Desktop\Fema\WindowsFormsApplication1\obj\Debug\WindowsForm
 C:\Users\André Luiz\Source\Repos\TrabalhoComputacaoGrafica\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
 C:\Users\André Luiz\Source\Repos\TrabalhoComputacaoGrafica\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 C:\Users\André Luiz\Source\Repos\TrabalhoComputacaoGrafica\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\André Luiz\Source\Repos\TrabalhoComputacaoGrafica\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\André Luiz\Source\Repos\TrabalhoComputacaoGrafica\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\André Luiz\Source\Repos\TrabalhoComputacaoGrafica\WindowsFormsApplication1\bin\Debug\OpenTK.dll
+C:\Users\André Luiz\Source\Repos\TrabalhoComputacaoGrafica\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\André Luiz\Source\Repos\TrabalhoComputacaoGrafica\WindowsFormsApplication1\bin\Debug\OpenTK.pdb
+C:\Users\André Luiz\Source\Repos\TrabalhoComputacaoGrafica\WindowsFormsApplication1\bin\Debug\OpenTK.xml
+C:\Users\André Luiz\Source\Repos\TrabalhoComputacaoGrafica\WindowsFormsApplication1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\André Luiz\Source\Repos\TrabalhoComputacaoGrafica\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\André Luiz\Source\Repos\TrabalhoComputacaoGrafica\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\André Luiz\Source\Repos\TrabalhoComputacaoGrafica\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\André Luiz\Source\Repos\TrabalhoComputacaoGrafica\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
